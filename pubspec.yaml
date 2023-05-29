@@ -30,9 +30,10 @@ dependencies:
   flutter:
     sdk: flutter
 
-  fluent_ui: ^3.11.0
-  file_picker: ^4.5.1
-  archive: ^3.3.0
+  fluent_ui: ^4.6.1
+  ditredi: ^1.0.4
+  vector_math: ^2.1.4
+  flutter_colorpicker: ^1.0.3
 
 
   # The following adds the Cupertino Icons font to your application.

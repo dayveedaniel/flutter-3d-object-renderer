@@ -10,14 +10,10 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return FluentApp(
-        debugShowCheckedModeBanner: false,
-        title: 'Flutter Demo',
-        theme: ThemeData(
-            //primarySwatch: Colors.blue,
-            ),
-        home: const ShingleApp()
-
-        );
+    return const FluentApp(
+      debugShowCheckedModeBanner: false,
+      title: 'Flutter Demo',
+      home: ShingleApp(),
+    );
   }
 }

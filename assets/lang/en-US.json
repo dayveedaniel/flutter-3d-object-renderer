@@ -1,0 +1,100 @@
+{
+  "lang": "English",
+  "landing": {
+    "welcome": "Welcome!",
+    "getStarted": "To get started, you need to create an account. It does not take long.",
+    "need": "All you need is:\n1. Email\n2. Password",
+    "create": "Create account",
+    "login": "Log In"
+  },
+  "createAccount": {
+    "email": "Email",
+    "password": "Password",
+    "newPassword": "New Password",
+    "repeatPassword": "Repeat Password ",
+    "agree": "I have read and agree to ",
+    "terms": "Terms of Service",
+    "already": "Already Registered? ",
+    "notRegistered": "Not registered yet? ",
+    "forgotPass": "Forgot password?",
+    "restore": "Password reset",
+    "noMatch": "Passwords do not match"
+  },
+  "otp": {
+    "sent": "We sent an OTP to your email",
+    "valid": "The code is valid for ",
+    "sendCode": "Send new code ",
+    "expired": "OTP code expired request a new code",
+    "incorrect": "Incorrect code"
+  },
+  "pin": {
+    "set": "Set a PIN",
+    "retry": "Please retry the PIN",
+    "enter": "Enter your PIN",
+    "logout": "Are you sure you want to logout?"
+  },
+  "news": {
+    "title": "News",
+    "trending": "Trending",
+    "companies": "Companies related to this article",
+    "more": "More news"
+  },
+  "settings": {
+    "title": "Settings",
+    "personal": "Personal information",
+    "security": "Security",
+    "documents": "Documents",
+    "logOut": "Log out",
+    "free": "Free",
+    "investor": "Investor",
+    "professional": "Professional",
+    "resetPassword": "Password reset",
+    "pin": "PIN",
+    "setPin": "Set new PIN",
+    "deletePin": "Delete current PIN",
+    "appVersion": "App version {}"
+  },
+  "alert": {
+    "congrats": "Congratulations!",
+    "noConnection": "No Internet Connection",
+    "changedPass": "Your password has been successfully changed",
+    "login": "Go to login",
+    "error": "Error",
+    "deletedPin": "PIN has been successfully deleted",
+    "newPin": "New PIN successfully set",
+    "passwordLengthError": "Password length less than 8",
+    "logOutTitle": "Confirm Log Out",
+    "logOutBody": "Are you sure you want to logout?",
+    "confirm": "Confirmation",
+    "confirmBody": "Are you sure you want to close app?"
+  },
+  "personal": {
+    "title": "Personal information",
+    "save": "Save Changes",
+    "delete": "Delete",
+    "deletingAccount": "Deleting an account",
+    "deleteAccount": "Delete Account",
+    "deleteInfo": "Are you sure you want to delete your account? All your data will be lost",
+    "deleteConfirm": "To confirm, enter your password"
+  },
+  "weekDays": {
+    "0": "Mon",
+    "1": "Tue",
+    "2": "Wed",
+    "3": "Thu",
+    "4": "Fri",
+    "5": "Sat",
+    "6": "Sun"
+  },
+  "buttons": {
+    "continue": "Continue",
+    "ok": "Ok",
+    "closeApp": "Close App",
+    "cancel": "Cancel",
+    "showMore": "Show more",
+    "showLess": "Show less",
+    "next": "Next",
+    "save": "Save",
+    "buy": "Buy"
+  }
+}
